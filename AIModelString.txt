@@ -1,0 +1,12 @@
+"
+{“			--- opening bracket
+”incomestr”		--- string to be printed	
+”:”			--- colon to be printed 	
+””+ InferenceString+””	--- argument to be passed as variable
+”,”			--- comma to be printed
+”model_path”		--- string to be printed
+”:”			--- colon to be printed
+””+ modelpath +””		--- variable's value to be passed 
+”}			--- closing bracket
+"
+incomestr: Some result abc, model_path: C:/Path 
